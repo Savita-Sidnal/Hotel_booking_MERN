@@ -1,9 +1,7 @@
 # 🏨 NestFind: Smart Hotel Listings Management System  
 
-### 📌 A full-stack web application with authentication, listing management, and a secure feedback system.  
-
 ## 🚀 Live Demo & Source Code  
-🔗 **Live Demo:** *(Add deployment link if available)*  
+🔗 **Live Demo:** [NestFind-Smart-Hotel-Listings-Management-System](https://github.com/Savita-Sidnal/NestFind-Smart-Hotel-Listings-Management-System)  
 🔗 **Source Code:** [NestFind-Smart-Hotel-Listings-Management-System](https://github.com/Savita-Sidnal/NestFind-Smart-Hotel-Listings-Management-System)  
 
 ## 📖 Features  
